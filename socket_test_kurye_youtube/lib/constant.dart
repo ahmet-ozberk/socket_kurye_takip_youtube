@@ -1,1 +1,1 @@
-const String socketUrl = "http://...";
+const String socketUrl = "https://CourierSocket.akincand.repl.co";
